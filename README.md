@@ -48,7 +48,7 @@ s.close()
 ## OUTPUT
 
 
-<img width="416" height="236" alt="image" src="https://github.com/user-attachments/assets/78fa2bca-c20d-401e-983d-610311709b31" />
+<img width="698" height="357" alt="image" src="https://github.com/user-attachments/assets/2be60184-0655-4066-b33c-18feab7e674b" />
 
 
 
